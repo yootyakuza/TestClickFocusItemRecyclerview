@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TestClickFocusRecyclerview</string>
+
+    <array name="testArray">
+        <item>ทั้งหมด</item>
+        <item>โทรไม่อั้น</item>
+        <item>3 วัน</item>
+        <item>24 ชั่วโมง</item>
+        <item>7 วัน</item>
+        <item>4 วัน</item>
+    </array>
+
+
+</resources>
